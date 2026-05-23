@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Hello, I'm Neylor Cesar
 
-<!--
-**NeylorCesar/NeylorCesar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder & Head of Architecture at Neysoft • Software Architect & Systems Engineer.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+Designing scalable and intelligent platforms for communication, automation and analytics.
+
+Focused on:
+- Distributed systems
+- Realtime applications
+- AI-assisted workflows
+- SaaS architecture
+- DevOps culture
+- High-performance backend engineering
+
+---
+
+## 🛠 Core Stack
+
+- PHP
+- TypeScript
+- Bun
+- Node.js
+- Go
+- Docker
+- Linux
+- Cassandra
+- MariaDB
+
+---
+
+## 📡 Telecom & Realtime
+
+- Asterisk
+- VoIP
+- WebSocket
+- Socket.IO
+- WhatsApp Automation
+- PBX Integrations
+
+---
+
+## 🔥 Currently Building
+
+- Voicetec
+- GoTracker
+- AI-driven communication platforms
+
+---
+
+## 📫 Contact
+
+- Website: https://www.neysoft.com.br
+- GitHub: https://github.com/NeylorCesar
