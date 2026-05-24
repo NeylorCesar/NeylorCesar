@@ -3,7 +3,8 @@
 Founder & Head of Architecture at Neysoft  
 Software Architect & Systems Engineer
 
-Building scalable platforms for communication, automation and realtime systems
+Building scalable platforms for communication, automation and realtime systems.
+
 Over 15 years of experience in software development and systems integration.
 
 Focus:  
