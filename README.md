@@ -1,57 +1,15 @@
-# 👋 Hello, I'm Neylor Cesar
+# 👋 Neylor Cesar
 
-Founder & Head of Architecture at Neysoft • Software Architect & Systems Engineer.
+Founder & Head of Architecture at Neysoft  
+Software Architect & Systems Engineer
 
----
+Building scalable platforms for communication, automation and realtime systems.
+Over 15 years of experience in software development and systems integration.
 
-## 🚀 About Me
+Focus:  
+SaaS • Multi-Tenant Architecture • SOLID • Distributed Systems • Telecom  
+Automation • Embedded Systems • Telemetry • Cloud Solutions
 
-Designing scalable and intelligent platforms for communication, automation and analytics.
-
-Focused on:
-- Distributed systems
-- Realtime applications
-- AI-assisted workflows
-- SaaS architecture
-- DevOps culture
-- High-performance backend engineering
-
----
-
-## 🛠 Core Stack
-
-- PHP
-- TypeScript
-- Bun
-- Node.js
-- Go
-- Docker
-- Linux
-- Cassandra
-- MariaDB
-
----
-
-## 📡 Telecom & Realtime
-
-- Asterisk
-- VoIP
-- WebSocket
-- Socket.IO
-- WhatsApp Automation
-- PBX Integrations
-
----
-
-## 🔥 Currently Building
-
-- Voicetec
-- GoTracker
-- AI-driven communication platforms
-
----
-
-## 📫 Contact
-
-- Website: https://www.neysoft.com.br
-- GitHub: https://github.com/NeylorCesar
+Stack:  
+C • Go • TypeScript • Python • PHP • Bun • Docker • Linux  
+IaC • Terraform • Ansible • Cassandra • MySQL • PL/SQL
