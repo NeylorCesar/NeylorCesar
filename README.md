@@ -10,9 +10,9 @@ Over 15 years of experience in software development and systems integration.
 ### 🎯 Focus
 
 SaaS • Multi-Tenant Architecture • SOLID • Distributed Systems • Telecom  
-Automation • Embedded Systems • Telemetry • Cloud Solutions
+Automation • Embedded Systems • Telemetry • DevOps • Cloud Solutions
 
 ### ⚙️ Tech Stack
 
 C • Go • TypeScript • Python • PHP • Bun • Docker • Linux  
-IaC • Terraform • Ansible • Cassandra • MySQL • PL/SQL
+IaC • Terraform • Ansible • Cassandra • MariaDB • PL/SQL
