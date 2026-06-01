@@ -24,7 +24,7 @@ Automation • Embedded Systems • Telemetry • DevOps • Cloud Solutions
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
 
-<br><br>
+<br>
 
 <!-- IaC e Bancos de Dados -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform" /> &nbsp;
