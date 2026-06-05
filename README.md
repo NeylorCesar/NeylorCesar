@@ -13,24 +13,95 @@ SaaS • Multi-Tenant Architecture • SOLID • Distributed Systems • Telecom
 Automation • Embedded Systems • Telemetry • DevOps • Cloud Solutions
 
 ### ⚙️ Tech Stack
-
-<!-- Linguagens e Ferramentas Core -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="32" height="32" alt="C" title="C" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="32" height="32" alt="Go" title="Go" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32" height="32" alt="TypeScript" title="TypeScript" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" height="32" alt="Python" title="Python" /> &nbsp;
-<img src="https://img.shields.io/badge/-Bun-black?style=flat-square&logo=bun&logoColor=F9F9F9" width="42" height="18" alt="Bun" title="Bun" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="32" height="32" alt="PHP" title="PHP" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32" height="32" alt="Docker" title="Docker" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="32" height="32" alt="Linux" title="Linux" />
-<br>
-<!-- IaC e Bancos de Dados -->
-<!-- Segunda Linha: Infra, Bancos de Dados e Cloud -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="32" height="32" alt="Terraform" title="Terraform" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="32" height="32" alt="Ansible" title="Ansible" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cassandra/cassandra-original.svg" width="32" height="32" alt="Cassandra" title="Apache Cassandra" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="32" height="32" alt="MariaDB" title="MariaDB" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32" height="32" alt="PostgreSQL" title="PostgreSQL" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32" height="32" alt="MySQL" title="MySQL" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="32" height="32" alt="PL/SQL (Oracle)" title="PL/SQL (Oracle)" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="32" height="32" alt="AWS" title="Amazon Web Services (AWS)" />
+<table align="left">
+    <tr>
+        <td align="center" width="90">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="icon" width="35" height="35" />
+            <br><sub>C</sub>
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=rust" width="35" height="35" alt="Rust" />
+            <br><sub>Rust</sub>
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=go" width="35" height="35" alt="Go" />
+            <br><sub>Go</sub>
+        </td>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="35" height="35" />
+            <br><sub>Typescript</sub>
+        </td>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="35" height="35" />
+            <br><sub>Python</sub>
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=php" width="35" height="35" alt="PHP" />
+            <br><sub>PHP</sub>
+        </td>
+        <td align="center" width="90">
+            <img src="https://img.shields.io/badge/-Bun-black?style=flat-square&logo=bun&logoColor=F9F9F9" width="50" height="23" alt="Three.js" />
+            <br><sub>Bun</sub>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="35" height="35" />
+            <br><sub>Sass</sub>
+        </td>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="35" height="35" />
+            <br><sub>AWS</sub>
+        </td>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="35" height="35" />
+            <br><sub>Docker</sub>
+        </td>
+        <td align="center" width="90">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="icon" width="35" height="35" />
+            <br><sub>Linux</sub>
+        </td>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="35" height="35" />
+            <br><sub>Kubernetes</sub>
+        </td>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="35" height="35" alt="GraphQL" />
+            <br><sub>GraphQL</sub>
+        </td>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="35" height="35" />
+            <br><sub>REST API</sub>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="90">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cassandra/cassandra-original.svg" width="35" height="35" alt="Cassandra" />
+            <br><sub>Cassandra</sub>
+        </td>
+        <td align="center" width="90">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="35" height="35" alt="MongoDB" />
+            <br><sub>Oracle</sub>
+        </td>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="35" height="35" />
+            <br><sub>MySQL</sub>
+        </td>
+        <td align="center" width="90">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="icon" width="35" height="35" />
+            <br><sub>MariaDB</sub>
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=postgres" width="35" height="35" alt="PostgreSQL" />
+            <br><sub>PostgreSQL</sub>
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=sqlite" width="35" height="35" alt="SQLite" />
+            <br><sub>SQLite</sub>
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=mongodb" width="35" height="35" alt="MongoDB" />
+            <br><sub>MongoDB</sub>
+        </td>        
+    </tr>
+</table>
