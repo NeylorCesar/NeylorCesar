@@ -1,6 +1,6 @@
 # 👋 Neylor Cesar 
 
-Founder & Head of Architecture at Neysoft 
+Founder & Head of Architecture at Neysoft
 Software Architect & Systems Engineer
 
 Building scalable platforms for communication, automation and realtime systems.
