@@ -20,7 +20,7 @@ Automation • Embedded Systems • Telemetry • DevOps • Cloud Solutions
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="32" height="32" alt="C" title="C" />
             <br>C
         </td>
-        <td align="center" width="70">
+        <td align="center" width="72">
             <img src="https://skillicons.dev/icons?i=rust" width="40" height="40" alt="Rust" />
             <br>Rust
         </td>
@@ -58,7 +58,7 @@ Automation • Embedded Systems • Telemetry • DevOps • Cloud Solutions
             <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="40" height="40" />
             <br>Docker
         </td>
-        <td align="center" width="70">
+        <td align="center" width="72">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" title="Linux" />
             <br>Linux
         </td>
