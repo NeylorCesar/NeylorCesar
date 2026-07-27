@@ -64,7 +64,7 @@ Automation • Embedded Systems • Telemetry • DevOps • Cloud Solutions
             <img src="https://img.shields.io/badge/-Bun-black?style=flat-square&logo=bun&logoColor=F9F9F9" width="42" height="18" alt="Bun" title="Bun" />
             <br>Bun
         </td>
-        <td align="center" width=790">
+        <td align="center" width=70">
             <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="60" height="60" />
             <br>Sass
         </td>
