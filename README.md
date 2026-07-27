@@ -36,12 +36,12 @@ Automation • Embedded Systems • Telemetry • DevOps • Cloud Solutions
 
 <table align="center">
     <tr>
-        <td align="center" width="90">
+        <td align="center" width="70">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="32" height="32" alt="C" title="C" />
             <br>C
         </td>
         <td align="center" width="70">
-            <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
+            <img src="https://skillicons.dev/icons?i=rust" width="40" height="40" alt="Rust" />
             <br>Rust
         </td>
         <td align="center" width="70">
@@ -107,7 +107,7 @@ Automation • Embedded Systems • Telemetry • DevOps • Cloud Solutions
             <br>PostgreSQL
         </td>
         <td align="center" width="70">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="55" height="26" alt="PL/SQL (Oracle)" title="PL/SQL (Oracle)" /> &nbsp;
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="34" height="34" alt="PL/SQL (Oracle)" title="PL/SQL (Oracle)" /> &nbsp;
             <br>Oracle
         </td>
     </tr>
