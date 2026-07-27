@@ -44,6 +44,10 @@ Automation • Embedded Systems • Telemetry • DevOps • Cloud Solutions
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" title="PHP" />
             <br>php
         </td>
+        <td align="center" width="70">
+            <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="GraphQL" />
+            <br>GraphQL
+        </td>
         <td align="center" width=70">
             <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="40" height="40" />
             <br>Sass
@@ -85,6 +89,10 @@ Automation • Embedded Systems • Telemetry • DevOps • Cloud Solutions
         <td align="center" width="70">
             <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
             <br>PostgreSQL
+        </td>
+        <td align="center" width="70">
+            <img src="https://skillicons.dev/icons?i=sqlite" width="45" height="45" alt="SQLite" />
+            <br>SQLite
         </td>
         <td align="center" width="70">
             <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
