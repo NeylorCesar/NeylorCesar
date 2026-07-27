@@ -75,39 +75,39 @@ Automation • Embedded Systems • Telemetry • DevOps • Cloud Solutions
     </tr>
     <tr>
         <td align="center" width="70">
-            <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="60" height="60" />
+            <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="40" height="40" />
             <br>Docker
         </td>
         <td align="center" width="70">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="32" height="32" alt="Linux" title="Linux" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" title="Linux" />
             <br>Linux
         </td>
         <td align="center" width="70">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="32" height="32" alt="Terraform" title="Terraform" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform" title="Terraform" />
             <br>Terraform
         </td>
         <td align="center" width="70">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="32" height="32" alt="Ansible" title="Ansible" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" height="40" alt="Ansible" title="Ansible" />
             <br>Ansible
         </td>
         <td align="center" width="70">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cassandra/cassandra-original.svg" width="60" height="60" alt="Cassandra" title="Apache Cassandra" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cassandra/cassandra-original.svg" width="40" height="40" alt="Cassandra" title="Apache Cassandra" />
             <br>Cassandra
         </td>
         <td align="center" width="70">
-            <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
+            <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
             <br>MySQL
         </td>
         <td align="center" width="70">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="50" height="50" alt="MariaDB" title="MariaDB" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="40" height="40" alt="MariaDB" title="MariaDB" />
             <br>MariaDB
         </td>
         <td align="center" width="70">
-            <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
+            <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
             <br>PostgreSQL
         </td>
         <td align="center" width="70">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="55" height="55" alt="PL/SQL (Oracle)" title="PL/SQL (Oracle)" /> &nbsp;
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="55" height="26" alt="PL/SQL (Oracle)" title="PL/SQL (Oracle)" /> &nbsp;
             <br>Oracle
         </td>
     </tr>
