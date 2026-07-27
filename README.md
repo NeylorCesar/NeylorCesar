@@ -61,7 +61,7 @@ Automation • Embedded Systems • Telemetry • DevOps • Cloud Solutions
             <br>php
         </td>
         <td align="center" width="70">
-            <img src="https://img.shields.io/badge/-Bun-black?style=flat-square&logo=bun&logoColor=F9F9F9" width="40" height="40" alt="Bun" title="Bun" />
+            <img src="https://img.shields.io/badge/-Bun-black?style=flat-square&logo=bun&logoColor=F9F9F9" width="40" height="48" alt="Bun" title="Bun" />
             <br>Bun
         </td>
         <td align="center" width=70">
