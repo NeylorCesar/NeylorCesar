@@ -57,15 +57,15 @@ Automation • Embedded Systems • Telemetry • DevOps • Cloud Solutions
             <br>Python
         </td>
         <td align="center" width="70">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="32" height="32" alt="PHP" title="PHP" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" title="PHP" />
             <br>php
         </td>
         <td align="center" width="70">
-            <img src="https://img.shields.io/badge/-Bun-black?style=flat-square&logo=bun&logoColor=F9F9F9" width="42" height="18" alt="Bun" title="Bun" />
+            <img src="https://img.shields.io/badge/-Bun-black?style=flat-square&logo=bun&logoColor=F9F9F9" width="40" height="40" alt="Bun" title="Bun" />
             <br>Bun
         </td>
         <td align="center" width=70">
-            <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="60" height="60" />
+            <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="40" height="40" />
             <br>Sass
         </td>
         <td align="center" width="70">
