@@ -41,6 +41,10 @@ Automation • Embedded Systems • Telemetry • DevOps • Cloud Solutions
             <br>C
         </td>
         <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
+            <br>Rust
+        </td>
+        <td align="center" width="90">
             <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
             <br>Go
         </td>
