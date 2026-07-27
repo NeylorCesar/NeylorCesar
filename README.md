@@ -57,7 +57,7 @@ Automation • Embedded Systems • Telemetry • DevOps • Cloud Solutions
             <br>php
         </td>
         <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/bun-icon.svg" alt="icon" width="65" height="65" />
+            <img src="https://img.shields.io/badge/-Bun-black?style=flat-square&logo=bun&logoColor=F9F9F9" width="42" height="18" alt="Bun" title="Bun" />
             <br>Bun
         </td>
         <td align="center" width="90">
@@ -75,16 +75,12 @@ Automation • Embedded Systems • Telemetry • DevOps • Cloud Solutions
             <br>Docker
         </td>
         <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="GraphQL" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="32" height="32" alt="Linux" title="Linux" />
             <br>Linux
         </td>
         <td align="center" width="90">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="32" height="32" alt="Terraform" title="Terraform" />
             <br>Terraform
-        </td>
-        <td align="center" width="90">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="32" height="32" alt="Ansible" title="Ansible" />
-            <br>Ansible
         </td>
         <td align="center" width="90">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="32" height="32" alt="Ansible" title="Ansible" />
