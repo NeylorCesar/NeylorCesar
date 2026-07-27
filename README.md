@@ -91,11 +91,11 @@ Automation • Embedded Systems • Telemetry • DevOps • Cloud Solutions
             <br>PostgreSQL
         </td>
         <td align="center" width="70">
-            <img src="https://skillicons.dev/icons?i=sqlite" width="45" height="45" alt="SQLite" />
+            <img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" alt="SQLite" />
             <br>SQLite
         </td>
         <td align="center" width="70">
-            <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
+            <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
             <br>MongoDB
         </td>
     </tr>
