@@ -45,15 +45,15 @@ Automation • Embedded Systems • Telemetry • DevOps • Cloud Solutions
             <br>Rust
         </td>
         <td align="center" width="70">
-            <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
+            <img src="https://skillicons.dev/icons?i=go" width="40" height="40" alt="Go" />
             <br>Go
         </td>
         <td align="center" width="70">
-            <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
+            <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="40" height="40" />
             <br>Typescript
         </td>
         <td align="center" width="70">
-            <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
+            <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
             <br>Python
         </td>
         <td align="center" width="70">
