@@ -107,8 +107,8 @@ Automation • Embedded Systems • Telemetry • DevOps • Cloud Solutions
             <br>PostgreSQL
         </td>
         <td align="center" width="70">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="34" height="34" alt="PL/SQL (Oracle)" title="PL/SQL (Oracle)" /> &nbsp;
-            <br>Oracle
+            <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
+            <br>MongoDB
         </td>
     </tr>
 </table>
