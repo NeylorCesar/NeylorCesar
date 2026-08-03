@@ -29,7 +29,7 @@ Automation • Embedded Systems • Telemetry • DevOps • Cloud Solutions
             <br>Go
         </td>
         <td align="center" width="90">
-            <img src="https://shields.io" width="68" height="34" alt="Bun" title="Bun" width="68" height="34" alt="Bun" title="Bun" />
+            <img src="https://jsdelivr.net" width="34" height="34" alt="Bun" title="Bun" />
             <br>Bun
         </td>        
         <td align="center" width="90">
