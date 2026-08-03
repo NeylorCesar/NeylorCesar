@@ -29,7 +29,7 @@ Automation • Embedded Systems • Telemetry • DevOps • Cloud Solutions
             <br>Go
         </td>
         <td align="center" width="90">
-            <img src="https://img.shields.io/badge/-Bun-black?style=flat-square&logo=bun&logoColor=F9F9F9" width="68" height="34" alt="Bun" title="Bun" />
+            <img src="https://shields.io" width="68" height="34" alt="Bun" title="Bun" width="68" height="34" alt="Bun" title="Bun" />
             <br>Bun
         </td>        
         <td align="center" width="90">
